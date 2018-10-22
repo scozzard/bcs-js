@@ -1,0 +1,15 @@
+body {
+    color: #262626;
+    font-family: 'Helvetica Neue Light', 'Open Sans', Helvetica;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 1px;
+}
+
+tr.red td{
+	background-color: #F08080 !important;
+}
+
+tr.green td{
+	background-color: #3CB371 !important;
+}
