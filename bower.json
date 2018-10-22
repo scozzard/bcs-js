@@ -1,0 +1,23 @@
+{
+  "name": "bcs-js",
+  "homepage": "https://github.com/scozzard/bcs-js",
+  "authors": [
+    "Scott Walker <scot.walker@gmail.com>"
+  ],
+  "description": "A test project for bcs.",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jsgrid": "js-grid#^1.5.3",
+    "moment": "^2.22.2"
+  }
+}
