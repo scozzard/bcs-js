@@ -2,10 +2,9 @@
 
 ## What was required
 
-Place a grid placed in the div generated from the data in the string, displaying only those records with an account
-number beginning with ‘B’ and sorted by account number.
-   
-The numeric values in the form need to be formatted to `0.00` and date values as `11 January 2017`. Items in the Value field with a value of less than 100 should have a red background, items with a Value field greater than 500 should have a green background.
+Place a grid in the div (id:grid) which is populated from the data in the json object `BCS`. In the grid, display only those records with an account number beginning with ‘B’ and sorted by account number.
+
+The numeric values in the form need to be formatted as `0.00` and date values as `11 January 2017`. Items in the value field which are less than 100 should have a red background, items with a value greater than 500 should have a green background.
 
 Any online tools and javascript frameworks can be used.
 
